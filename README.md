@@ -37,6 +37,8 @@ Install NodeJs version 18.14.2
 
 3. npm start
 
+4. npm stop (to stop the application)
+
 ### > Accessing the Panels
 You can access your marketplace panels at the following URLs:
 
@@ -44,9 +46,7 @@ You can access your marketplace panels at the following URLs:
 - Your Admin Panel: [http://localhost:3000/admin](http://localhost:3000/admin)
 - API Running at: [http://localhost:8000/api](http://localhost:8000/api)
 
-4. npm stop (to stop the application)
-
-SMTP Configuration (For Email)
+### > SMTP Configuration (For Email)
 For further SMTP configuration, go inside the api folder and edit the .env file.
 
 - MAIL_DRIVER=smtp
