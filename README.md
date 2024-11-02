@@ -46,6 +46,21 @@ You can access your marketplace panels at the following URLs:
 
 4. npm stop (to stop the application)
 
+SMTP Configuration (For Email)
+For further SMTP configuration, go inside the api folder and edit the .env file.
+
+  #
+  # Mail
+  #
+  MAIL_DRIVER=smtp
+  MAIL_HOST=smtp.com
+  MAIL_USERNAME=USERNAME
+  MAIL_PASSWORD=PASSWORD
+  MAIL_PORT=465
+  MAIL_SECURE=true
+  MAIL_ENCRYPTION=tls
+  MAIL_FROM=MAIL_FROM
+
 ## 🤔 Support , Document and Help
 
 You can find our extended documentation on our [www.spurtcommerce.dev](https://www.spurtcommerce.dev), but some quick links that might be helpful:
