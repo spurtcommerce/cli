@@ -4,7 +4,7 @@
   "description": "<p align=\"center\">   <a href=\"https://www.spurtcommerce.com/#gh-light-mode-only\">     <img src=\"https://www.spurtcommerce.com/spurtcommerce.svg\" width=\"318px\" alt=\"Spurtcommerce logo\" />   </a>",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start",
+    "start": "pm2 start && echo \" --- Your Seller Panel http://localhost:3000\" && echo \" --- Your Admin Panel http://localhost:3000/admin\" && echo \" --- Api Running in http://localhost:8000/api\"",
     "stop": "pm2 delete all",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
