@@ -29,17 +29,13 @@
 
 To get your Spurtcommerce Marketplace up and running, simply follow these steps:
 
-### Start the Application
-Navigate to the cloned repository and run:
-```bash
+Install NodeJs version 18.14.2
 
-npm i @spurtcommerce/cli
+1. npm i @spurtcommerce/cli
 
-spurtcommerce -i app
+2. spurtcommerce -i app
 
-npm start
-
-npm stop
+3. npm start
 
 ### > Accessing the Panels
 You can access your marketplace panels at the following URLs:
@@ -48,6 +44,7 @@ You can access your marketplace panels at the following URLs:
 - Your Admin Panel: [http://localhost:3000/admin](http://localhost:3000/admin)
 - API Running at: [http://localhost:8000/api](http://localhost:8000/api)
 
+4. npm stop (to stop the application)
 
 ## 🤔 Support , Document and Help
 
