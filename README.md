@@ -31,7 +31,7 @@ To get your Spurtcommerce Marketplace up and running, simply follow these steps:
 
 Install NodeJs version 18.14.2
 
-1. npm i @spurtcommerce/cli
+1. npm i -g @spurtcommerce/cli
 
 2. spurtcommerce -i app
 
