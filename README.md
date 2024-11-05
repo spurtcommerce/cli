@@ -22,12 +22,12 @@
 <br />
 
 > [!IMPORTANT]
-> 🎉 <strong>Spurtcommerce v5.0.0 is now available!</strong> Read more in the <a target="_blank" href="https://www.spurtcommerce.com/spurtcommerce-change-log" rel="dofollow"><strong>announcement post</strong></a>.
+> 🎉 <strong>Spurtcommerce Community v5.0.0 is now available!</strong> Read more in the <a target="_blank" href="https://www.spurtcommerce.com/spurtcommerce-change-log" rel="dofollow"><strong>announcement post</strong></a>.
 <br />
 
 ## ❯ 🚀 Quick Start
 
-To get your Spurtcommerce Marketplace up and running, simply follow these steps:
+To get your Spurtcommerce Community up and running, simply follow these steps:
 
 Install NodeJs version 18.14.2
 
